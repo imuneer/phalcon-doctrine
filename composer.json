@@ -1,0 +1,13 @@
+{
+    "name": "muneer/e-xcrm",
+    "description": "Hyper CRM project",
+    "require": {
+        "doctrine/orm": "~2.4"
+    },
+    "authors": [
+        {
+            "name": "Muneer Shaheed",
+            "email": "muneer@live.it"
+        }
+    ]
+}
